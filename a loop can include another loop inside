@@ -1,0 +1,17 @@
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+
+
+  for(int i = 1; i < 10; i+=2)
+  {
+       for(intialization; condition; update)
+       {
+         //inner loop statements
+       }
+     }
+    //outer loop statments
+    
+  }
+}
