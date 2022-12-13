@@ -1,0 +1,21 @@
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+
+  int[] numbers = { 3, 14, 59, 67, 1, 5 }; 
+
+    Console.WriteLine(numbers[4]);
+
+int sum = 0;
+    
+  for(int n = 0; n < int[] numbers = { 3, 14, 59, 67, 1, 5 }; n++){
+    sum += n;
+  }
+  Console.WriteLine(sum);
+    
+    Console.WriteLine("Lenghth of the array is {0}", numbers.Length);
+
+  
+  }
+}
